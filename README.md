@@ -24,6 +24,17 @@ A premium Discord bot for monitoring San Andreas Multiplayer (SA-MP) servers. It
    - `statusChannelId`: The ID of the Discord channel for updates.
    - `serverName`: Your server's display name.
    - `bannerURL`: Link to your server's banner image.
+   - ---
+
+## 📸 Interface Preview
+
+<p align="center">
+  <strong>The Main Dashboard</strong>
+</p>
+<p align="center">
+  <img src="samp_monitor.png" alt="Chenda Main Interface" width="800" style="border-radius: 8px; border: 1px solid #333;">
+</p>
+
 
 ### 3. Installation & Run
 1. Open your terminal in this folder.
